@@ -16,8 +16,8 @@
 
 1. In the terminal type <code>pip3 install jupyter</code>
 
-1. In the terminal type <code>jupyter notebook --NotebookApp.token='' --NotebookApp.password=''</code> to start the jupyter server.
-
+1. In the terminal type <code></code> to start the jupyter server.
+jupyter notebook --NotebookApp.token='' --NotebookApp.password=''
 1. Open port 8888 preview or browser
 
 1. Open the jupyter_notebooks directory in the jupyter webpage that has opened and click on the notebook you want to open.
